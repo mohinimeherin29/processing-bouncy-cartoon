@@ -6,23 +6,23 @@ The cartoon moves around the screen, bounces off the edges, and changes colours 
 
 **Features**
 
-Bouncing movement: the cartoon starts in a random direction and bounces off the edges of the window
+1.Bouncing movement: the cartoon starts in a random direction and bounces off the edges of the window
 
-Changing eye colour: the eyes turn brown in the lower half of the screen and black in the upper half
+2.Changing eye colour: the eyes turn brown in the lower half of the screen and black in the upper half
 
-Pink background: press T to change the background from white to pink
+3.Pink background: press T to change the background from white to pink
 
-Mouth colour: click the mouse to turn the mouth white
+4.Mouth colour: click the mouse to turn the mouth white
 
-Drag to move: click and drag to move the cartoon anywhere
+5.Drag to move: click and drag to move the cartoon anywhere
 
 **Controls**
 
-Press T or t	Background turns pink
+1.Press T or t	Background turns pink
 
-Click the mouse	Mouth turns white
+2.Click the mouse	Mouth turns white
 
-Drag the mouse	Cartoon follows your cursor
+3.Drag the mouse	Cartoon follows your cursor
 
 **How to run it**
 
@@ -41,12 +41,13 @@ Click the Run ▶ button at the top left.
 **Built with** - Processing (Java mode)
 
 **What I learned**
-Drawing shapes with ellipse() and line()
 
-Using variables to animate position (xPos, yPos, dx, dy)
+1.Drawing shapes with ellipse() and line()
 
-Making objects bounce with if conditions
+2.Using variables to animate position (xPos, yPos, dx, dy)
 
-Handling user input with keyPressed(), mousePressed() and mouseDragged()
+3.Making objects bounce with if conditions
 
-Changing colours with color() variables
+4.Handling user input with keyPressed(), mousePressed() and mouseDragged()
+
+5.Changing colours with color() variables
