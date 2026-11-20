@@ -5,6 +5,7 @@ An interactive bouncing cartoon character made with Processing.
 The cartoon moves around the screen, bounces off the edges, and changes colours when you use the keyboard and mouse.
 
 **Features**
+
 Bouncing movement: the cartoon starts in a random direction and bounces off the edges of the window
 
 Changing eye colour: the eyes turn brown in the lower half of the screen and black in the upper half
@@ -38,6 +39,7 @@ Open bouncycartoon.pde in Processing.
 Click the Run ▶ button at the top left.
 
 **Built with** - Processing (Java mode)
+
 **What I learned**
 Drawing shapes with ellipse() and line()
 
